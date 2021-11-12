@@ -1,0 +1,36 @@
+h1{
+  background: #B3B3B3;
+  font-size: 150%;
+  color: #070621;
+  font-family: Verdana
+
+}
+
+header {
+  background: #30eebb;
+  text-align: center;
+}
+
+nav{
+  font-variant: small-caps;
+  font-size: 120%;
+  font-family: Calibri
+}
+
+h2 {
+  font-size: 110%;
+  color: #075511;
+  background: rgba(196, 196, 196, 1);
+}
+
+details{
+  font-style: italic
+}
+summary{
+  font-style: normal
+}
+
+footer{
+  background: #30eebb;
+  text-align: center;
+}
